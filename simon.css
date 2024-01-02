@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: darkturquoise;
 }
 
 .btn-container {
@@ -16,19 +17,19 @@ body {
 }
 
 .red {
-    background-color: purple;
+    background-color: rgb(255, 0, 0);
 }
 
 .yellow {
-    background-color: lightblue;
+    background-color: rgb(251, 255, 16);
 }
 
 .green {
-    background-color: lightcoral;
+    background-color: rgb(0, 255, 21);
 }
 
-.purple {
-    background-color: lawngreen                           ;
+.blue {
+    background-color: rgb(0, 172, 252)                           ;
 }
 
 .flash {
