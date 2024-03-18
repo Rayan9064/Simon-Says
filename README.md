@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# Simon-says
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Simon-says is a game helpful in memory sharpening, which involves remembering the previous moves along with the next moves.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Live link -> https://simon-says-rayan9064.netlify.app
